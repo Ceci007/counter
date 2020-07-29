@@ -13,7 +13,7 @@ A counter made with React and Bootstrap with functionality that resembles a shop
 [Live Demo Link](https://ceci007.github.io/counter/)
 
 ## Author
-### Author1
+- Cecilia Benitez
 - 👤GitHub: https://github.com/Ceci007
 
 ## Show your support
