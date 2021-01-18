@@ -1,6 +1,6 @@
 # counter
 
-A counter made with React and Bootstrap with functionality that resembles a shopping cart in an e-commerce page for example. 
+This app, made with React and Bootstrap, allows users to count how many of an item and how many types of items have been added, functionally resembling a shopping cart in an e-commerce page.
   
 ![screenshot](./app_screenshot.png) 
 
