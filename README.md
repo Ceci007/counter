@@ -13,7 +13,7 @@ This app, made with React and Bootstrap, allows users to count how many of an it
 [Live Demo Link](https://ceci007.github.io/counter/)
 
 ## Author
-- 👤 Cecilia Benitez -> GitHub: https://github.com/Ceci007
+- 👤 Cecilia Benitez -> [GitHub](https://github.com/Ceci007)
 
 ## Show your support
 Give a ⭐️ if you like this project!
