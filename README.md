@@ -5,7 +5,7 @@ This app, made with React, allows users to count how many of an item and how man
 ![screenshot](./app_screenshot.png) 
 
 ## Built With
-- JavaScript (React.Js)
+- React.Js
 - Bootstrap
 
 ## Live Demo
