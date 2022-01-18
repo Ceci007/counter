@@ -1,6 +1,6 @@
 # counter
 
-This app, made with React, allows users to count how many of an item and how many types of items have been added, functionally resembling a shopping cart in an e-commerce page.
+This app is made with React, and it allows users to count how many of an item and how many types of items have been added, functionally resembling a shopping cart in an e-commerce page.
   
 ![screenshot](./app_screenshot.png) 
 
